@@ -5,11 +5,10 @@
 />
 
 </p>
-<align="center"> [BAGULHO DOIDO PODCAST - EPISODE 01](https://soundcloud.com/heitor-ribeiro-446662419/bagulho_doido_episode_01)
-
 
 <p align="center">
     preview do podcast
+[BAGULHO DOIDO PODCAST - EPISODE 01](https://soundcloud.com/heitor-ribeiro-446662419/bagulho_doido_episode_01)
 </p>
 
 <div align="center">
