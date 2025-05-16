@@ -135,5 +135,5 @@ o formato do roteiro deve ser
 * Não use muitos termos técnicos
 * Não ultrapasse 5 minutos de duração
 * Não use fatos inverídicos
- |
+  
 
