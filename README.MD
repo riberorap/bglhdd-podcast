@@ -4,7 +4,9 @@
     width="300"
 />
 </p>
+
 [BAGULHO DOIDO PODCAST - EPISODE 01](https://soundcloud.com/heitor-ribeiro-446662419/bagulho_doido_episode_01)
+
 <p align="center">
     preview do podcast
 </p>
