@@ -3,9 +3,9 @@
     src="./assets/BGLHDD_PODCAST.jpg"
     width="300"
 />
-[BAGULHO DOIDO PODCAST - EPISODE 01](https://soundcloud.com/heitor-ribeiro-446662419/bagulho_doido_episode_01)
-</p>
 
+</p>
+<align="center"> [BAGULHO DOIDO PODCAST - EPISODE 01](https://soundcloud.com/heitor-ribeiro-446662419/bagulho_doido_episode_01)
 
 
 <p align="center">
