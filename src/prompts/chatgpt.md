@@ -1,4 +1,4 @@
-## 🧠 Prompts
+## 🧠 GPT Prompts
 
 
 ChatGPT：
