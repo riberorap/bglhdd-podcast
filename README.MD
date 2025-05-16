@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/BGLHDD_PODCAST.jpg"
     width="300"
 />
 </p>
