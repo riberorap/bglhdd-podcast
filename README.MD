@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-<a>[BAGULHO DOIDO PODCAST - EPISODE 01](https://soundcloud.com/heitor-ribeiro-446662419/bagulho_doido_episode_01)
-</a>
-
+[BAGULHO DOIDO PODCAST - EPISODE 01](https://soundcloud.com/heitor-ribeiro-446662419/bagulho_doido_episode_01)
 </p>
 
 <p align="center">
