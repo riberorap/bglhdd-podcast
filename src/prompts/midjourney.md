@@ -1,0 +1,12 @@
+## 🎨 Leonardo Prompts
+
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  capa  | Prompt: A bold and vibrant cover art for a podcast called “BAGULHO DOIDO PODCAST”. The design should capture the essence of Brazilian street culture, mixing urban art, music, spirituality, and politics. The central character is a Black Brazilian man named Ribero, bald, with a full beard, wearing streetwear and holding a vintage microphone. He stands confidently in front of graffiti-covered walls, surrounded by colorful mandalas, atabaque drums, and spiritual elements like orixá symbols and protective amulets. In the background, a favela hillside under a sunset sky. The color palette should be warm and intense — oranges, purples, reds, and dark blues — with a gritty, underground vibe. The podcast title “BAGULHO DOIDO PODCAST” must be bold, in graffiti-style typography, placed prominently at the top or center. The overall mood should feel rebellious, poetic, and soulful, blending modern hip-hop cover art aesthetics with authentic Brazilian street culture.
+
+Optional text on the image: “Hosted by Ribero”
+
+Avoid stereotypical carnival elements, soccer, or tropical clichés. No cartoonish styles. Keep it raw, authentic, and spiritually charged. |
